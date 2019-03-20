@@ -33,6 +33,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/basics.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/cor.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/data/data.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/data/planets.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/first_class.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/varsha_clojure_learning/learning_20_3_19.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/varsha_clojure_learning/core_test.clj">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

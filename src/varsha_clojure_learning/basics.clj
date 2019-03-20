@@ -1,4 +1,4 @@
-(ns varsha_clojure_learning.20_3_2019)
+(ns varsha_clojure_learning.basics)
 
 (+ 1 2)
 
